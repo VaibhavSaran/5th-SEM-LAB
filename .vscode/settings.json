@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "iostream": "cpp",
-        "HUT_NEW.C": "cpp"
+        "HUT_NEW.C": "cpp",
+        "DAA.C": "cpp"
     }
 }
